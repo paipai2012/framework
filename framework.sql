@@ -49,4 +49,3 @@ CREATE TABLE `user` (
 -- Records of user
 -- ----------------------------
 INSERT INTO `user` VALUES ('1', 'admin', '202cb962ac59075b964b07152d234b70', null, null, null, null, 'BeKbCWG5Ld');
-INSERT INTO `user` VALUES ('2', 'admin1', 'asdfasdf', null, null, null, null, null);
